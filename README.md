@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://da6jagld7tjfl.cloudfront.net/uvacubi8u2khpbghzsl1blop296t" width="100" alt="Bear icon"/>
+  <img src="https://cdn.jim-nielsen.com/macos/512/bear-2018-10-26.png?rf=1024" width="100" alt="Bear icon"/>
 </p>
 
 <h1 align="center">Bear for Mac</h1>
@@ -32,6 +32,8 @@ Bear Professional Suite is a complete markdown writing and organization platform
 Note linking connects related notes directly within the text, building a web of cross-references that turns a flat note collection into a navigable, interconnected body of writing.
 
 Export to PDF, HTML, DOCX, and other formats produces publication-ready documents directly from markdown notes, completing the path from quick capture to finished output in one application.
+
+Encrypted notes protect sensitive entries with a separate passcode and Touch ID, keeping private content secure within the same notebook as everyday notes rather than a separate locked application.
 
 Bear Professional Suite is the writing tool for anyone who wants their daily notes to be both effortlessly organized through tags and ready to become finished documents whenever the need arises.
 
